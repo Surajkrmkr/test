@@ -32,5 +32,14 @@
                 "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
                 "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
             }
+            ,
+{
+                "id": 5,
+                "name": "Tech World",
+                "owner": "Buffy",
+                "tags": ["material" , "minimal" , "android"],
+                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
+                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
+            }
         ]
 }
