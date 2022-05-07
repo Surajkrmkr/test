@@ -1,45 +1,76 @@
 {
  "New": [
             {
-                "id": 1,
-                "name": "Tech World",
-                "owner": "Buffy",
-                "tags": ["material" , "minimal" , "android"],
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
+                "id":1,
+                "name":"Amoled 1",
+                "author":"Liquir Walls",
+                "url":"https://github.com/piyushkpv/Amoled/raw/main/1.png",
+                "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/1.jpg",
+                "tags":["material" , "minimal" , "android"],
+                "dimensions":"1080 × 2340 px",
             },
             {
-                "id": 2,
-                "name": "Tech World",
-                "owner": "Buffy",
-                "tags": ["material" , "minimal" , "android"],
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
+                "id":2,
+                "name":"Amoled 2",
+                "author":"Liquir Walls",
+                "url":"https://github.com/piyushkpv/Amoled/raw/main/2.png",
+                "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/2.jpg",
+                "tags":["material" , "minimal" , "android"],
+                "dimensions":"1080 × 2340 px",
             },
-{
-                "id": 3,
-                "name": "Tech World",
-                "owner": "Buffy",
-                "tags": ["material" , "minimal" , "android"],
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
+  {
+                "id":3,
+                "name":"Amoled 3",
+                "author":"Liquir Walls",
+                "url":"https://github.com/piyushkpv/Amoled/raw/main/1.png",
+                "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/1.jpg",
+                "tags":["material" , "minimal" , "android"],
+                "dimensions":"1080 × 2340 px",
             },
-{
-                "id": 4,
-                "name": "Tech World",
-                "owner": "Buffy",
-                "tags": ["material" , "minimal" , "android"],
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
-            }
-            ,
-{
-                "id": 5,
-                "name": "Tech World",
-                "owner": "Buffy",
-                "tags": ["material" , "minimal" , "android"],
-                "imageUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340.png",
-                "compressUrl": "https://github.com/piyushkpv/BuffyData/raw/main/Newest/Oct%201/wallhaven-wymvyx_1080x2340-min.png"
-            }
+            {
+                "id":4,
+                "name":"Amoled 2",
+                "author":"Liquir Walls",
+                "url":"https://github.com/piyushkpv/Amoled/raw/main/2.png",
+                "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/2.jpg",
+                "tags":["material" , "minimal" , "android"],
+                "dimensions":"1080 × 2340 px",
+            },
+  {
+                "id":5,
+                "name":"Amoled 1",
+                "author":"Liquir Walls",
+                "url":"https://github.com/piyushkpv/Amoled/raw/main/1.png",
+                "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/1.jpg",
+                "tags":["material" , "minimal" , "android"],
+                "dimensions":"1080 × 2340 px",
+            },
+            {
+                "id":6,
+                "name":"Amoled 2",
+                "author":"Liquir Walls",
+                "url":"https://github.com/piyushkpv/Amoled/raw/main/2.png",
+                "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/2.jpg",
+                "tags":["material" , "minimal" , "android"],
+                "dimensions":"1080 × 2340 px",
+            },
+  {
+                "id":7,
+                "name":"Amoled 1",
+                "author":"Liquir Walls",
+                "url":"https://github.com/piyushkpv/Amoled/raw/main/1.png",
+                "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/1.jpg",
+                "tags":["material" , "minimal" , "android"],
+                "dimensions":"1080 × 2340 px",
+            },
+            {
+                "id":8,
+                "name":"Amoled 2",
+                "author":"Liquir Walls",
+                "url":"https://github.com/piyushkpv/Amoled/raw/main/2.png",
+                "thumbnail":"https://github.com/piyushkpv/Amoled-Thumb/raw/main/2.jpg",
+                "tags":["material" , "minimal" , "android"],
+                "dimensions":"1080 × 2340 px",
+            },
         ]
 }
